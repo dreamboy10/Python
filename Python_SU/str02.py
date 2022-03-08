@@ -1,0 +1,5 @@
+print("Hello, World!")
+print("Hello,\nWorld!")
+print("하나! 둘!")
+print("'하나!'\"둘!\"")
+print("'하나!'\n\"둘!\"")
