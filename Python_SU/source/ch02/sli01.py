@@ -1,6 +1,0 @@
-print("KE901"[0:2])
-print("KE901"[2:5])
-print("KE901"[2:100])
-print("KE901"[2:])
-print("KE901"[:2])
-print("KE901"[:])
